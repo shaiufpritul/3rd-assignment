@@ -23,5 +23,11 @@ body{
   .item-caption{
     color: white;
   }
-
+  
+  @media only screen  and (max-width:767px){
+    #widthmax{
+        width: 100%;
+    }
+    
+  }
 
